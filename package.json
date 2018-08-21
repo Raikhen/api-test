@@ -1,0 +1,22 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "Trying out GraphQL, MongoDB and Node.js in an API building context.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raikhen/api-test.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raikhen/api-test/issues"
+  },
+  "homepage": "https://github.com/Raikhen/api-test#readme",
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "mongoose": "^5.2.9"
+  }
+}
